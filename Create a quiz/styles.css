@@ -1,0 +1,30 @@
+html {
+    background: url("images/wallpaper.jpg") no-repeat;
+}
+body {
+    background-color: white;
+    color: black;
+    width: 800px;
+    margin: auto;
+    font-family: "Helvetica", sans-serif;
+    border: 1px solid black;
+    padding: 25px;
+}
+
+p {
+border: 1.25px solid black;
+padding: 25px 25px 25px 25px;
+}
+
+div, button, span {
+    font-family: 'Poor Story', cursive;
+    font-size: 21px;
+}
+
+p, h1 {
+    font-family: 'Patrick Hand', cursive;
+}
+
+img {
+    vertical-align: middle;
+}
